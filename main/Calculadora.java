@@ -1,3 +1,4 @@
+package main;
 public class Calculadora {
     // Método para somar dois números
     public int somar(int a, int b) {
